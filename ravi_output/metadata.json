@@ -1,0 +1,23 @@
+[
+    {
+        "id": "kites_num=8_seed=1000",
+        "prompt": "image of eight kites in sky",
+        "seed": 1000,
+        "obj_class": "kites",
+        "requiered_object_num": 8
+    },
+    {
+        "id": "rats_num=7_seed=1000",
+        "prompt": "image of seven rats on the ground",
+        "seed": 1000,
+        "obj_class": "rats",
+        "requiered_object_num": 7
+    },
+    {
+        "id": "apples_num=6_seed=1000",
+        "prompt": "image of six apples on desk",
+        "seed": 1000,
+        "obj_class": "apples",
+        "requiered_object_num": 6
+    }
+]
